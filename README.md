@@ -7,7 +7,7 @@
  \__________________________________________________/
 -->
 
-# Hi, I’m Saher Dev! 👨‍💻
+# Hi, I’m Saher Dev! 👩🏻‍💻
 
 🎓 B.Tech CSE ’27 @ [IIT Jodhpur](https://iitj.ac.in/)  
 💬 Passionate about crafting polished UI/UX with React, HTML & CSS  
